@@ -1,7 +1,7 @@
 name: cpm-first-grid
 favicon: null
-layout_spectrum: 0.7322719662915915
-typography_spectrum: 0.9974872563034296
+layout_spectrum: 0.51604
+typography_spectrum: 0.19717
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.19823770294897258
-  lightness: 0.47879045526497066
-  saturation: 0.9901164218317717
-  rhythmicContrast: 0.45562782417982817
+    - '#ffffff'
+    - '#0e0e16'
+    - '#ff6e7b'
+    - '#5b5b5b'
+    - '#b8b67d'
+  brandStrength: 0.3125
+  lightness: 0.5625
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
