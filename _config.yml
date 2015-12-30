@@ -1,28 +1,40 @@
-name: cpm-first-grid
 favicon: null
-layout_spectrum: 0.51604
-typography_spectrum: 0.19717
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: cpm-first-grid
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5510638
+  brandStrength: 0.3125
+  lightness: 0.8489361
   brandColors:
     - '#ffffff'
     - '#0e0e16'
     - '#ff6e7b'
     - '#5b5b5b'
     - '#b8b67d'
-  brandStrength: 0.3125
-  lightness: 0.5625
-  saturation: 0.375
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 0.5638298
+typography_spectrum: 0.19717
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.51604
+analytics:
+  twitter: null
+  google: null
+  facebook: null
